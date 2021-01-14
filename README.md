@@ -1,1 +1,1 @@
-# TIMES_EMPIRE_-Scenarios
+# Harmonizing two stochastic models through stochastic scenarios
